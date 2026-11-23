@@ -1,11 +1,9 @@
-/*
- * OPTIONAL CLOUD SYNC. Paste your Firebase Web App config below (from Firebase Console).
- * This browser-side configuration isn't a password. Security comes from firebase.rules.
- * Leave as-is to keep using Master Recall fully offline and locally.
- */
+
 window.MASTER_RECALL_FIREBASE = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  appId: ""
+  apiKey: "AIzaSyCdTEbzl3RL5b-LrjYmaREBIt25g0QUZwU",
+  authDomain: "master-recall.firebaseapp.com",
+  projectId: "master-recall",
+  storageBucket: "master-recall.firebasestorage.app",
+  messagingSenderId: "295092854048",
+  appId: "1:295092854048:web:425357e04fe1fea490cb45"
 };
